@@ -49,6 +49,12 @@
 			<artifactId>cucumber-java8</artifactId>
 			<version>1.2.5</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>org.mortbay.jetty</groupId>
+			<artifactId>jetty</artifactId>
+			<version>6.1.25</version>
+		</dependency>
 
 
 
